@@ -12,4 +12,3 @@ pipeline {
         }
     }
 }
-//forked from https://github.com/robertstarmer/jenkins-git/blob/master/Jenkinsfile
